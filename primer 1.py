@@ -4,7 +4,6 @@ import json
 import sys
 from datetime import date
 
-
 def get_worker():
     """
     Запросить данные о работнике.
